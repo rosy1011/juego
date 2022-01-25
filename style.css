@@ -1,0 +1,10 @@
+html, body {
+  margin: 100;
+  padding: 100;
+}
+canvas{
+
+  border: 2px solid black;
+  background-image: url(https://image.freepik.com/vector-gratis/carreras-coches-chicas_1308-30737.jpg);
+
+}
